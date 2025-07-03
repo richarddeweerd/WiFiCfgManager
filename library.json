@@ -1,5 +1,5 @@
 {
-  "name": "WiFiConfigManager",
+  "name": "WiFiCfgManager",
   "version": "1.0.0",
   "keywords": "wifi,wi-fi,esp,esp8266,esp32,espressif8266,espressif32,nodemcu,wemos,arduino",
   "description": "WiFi Configuration manager with web configuration portal for ESP boards. Fork of the original WiFiManager by tzapu. Added support for integrated littlefs filesystem data storage.",
@@ -13,10 +13,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/richarddeweerd/WiFiConfigManager.git"
+    "url": "https://github.com/richarddeweerd/WiFiCfgManager.git"
   },
   "license": "MIT",
-  "homepage": "https://github.com/richarddeweerd/WiFiConfigManager",
+  "homepage": "https://github.com/richarddeweerd/WiFiCfgManager",
   "dependencies": {},
   "frameworks": "arduino",
   "platforms": ["espressif8266", "espressif32"]
